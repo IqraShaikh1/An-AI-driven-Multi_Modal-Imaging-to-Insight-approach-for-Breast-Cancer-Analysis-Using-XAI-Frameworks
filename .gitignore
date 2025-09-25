@@ -1,0 +1,4 @@
+.venv/
+svm_model.pkl
+resnet50_trained.pth
+media/
